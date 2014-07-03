@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version          = "0.1.0"
   s.summary          = "The core Omni open source framework."
   s.homepage         = "https://github.com/wjk/OmniBase"
-  s.license          = { :type => 'OMNI', :file => 'OmniSourceLicense.html' }
+  s.license          = { :type => 'Omni', :file => 'LICENSE' }
   s.author           = { "William Kent" => "https://github.com/wjk" }
   s.source           = { :git => "https://github.com/wjk/OmniBase.git", :tag => s.version.to_s }
 
