@@ -1,0 +1,7 @@
+
+target 'OmniBase', :exclusive => true do
+  pod "OmniBase", :path => "../"
+
+  pod 'Specta', '~> 0.2.1'
+  pod 'Expecta'
+end
