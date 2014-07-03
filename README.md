@@ -34,5 +34,6 @@ it, simply add the following line to your Podfile:
 
 ## License
 
-OmniBase is available under the [Omni open-source license](OmniSourceLicense.html).
+OmniBase is available under the Omni open-source license.
+See [the LICENSE file](LICENSE) for full details.
 
