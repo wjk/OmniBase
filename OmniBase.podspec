@@ -8,8 +8,8 @@ Pod::Spec.new do |s|
   s.source           = { :git => "https://github.com/wjk/OmniBase.git", :tag => s.version.to_s }
 
   s.platform = :osx
+  s.osx.deployment_target = '10.9'
   s.source_files = 'Pod/Classes'
-  s.resources = 'Pod/Assets/*.png'
   s.public_header_files = 'Pod/Classes/**/*.h'
   s.requires_arc = true
 end
