@@ -1,0 +1,20 @@
+PODS:
+  - Expecta (0.3.1)
+  - OmniBase (0.1.0)
+  - Specta (0.2.1)
+
+DEPENDENCIES:
+  - Expecta
+  - OmniBase (from `../`)
+  - Specta (~> 0.2.1)
+
+EXTERNAL SOURCES:
+  OmniBase:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Expecta: 03aabd0a89d8dea843baecb19a7fd7466a69a31d
+  OmniBase: 8ff61d70f1ae85fa385db2264c0d203f606cd2d1
+  Specta: 9141310f46b1f68b676650ff2854e1ed0b74163a
+
+COCOAPODS: 0.33.1
