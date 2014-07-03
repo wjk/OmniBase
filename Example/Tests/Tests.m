@@ -8,6 +8,7 @@
 
 #import <OmniBase/OmniBase.h>
 
+// FIXME: There aren't nearly enough tests in this file.
 SpecBegin(OmniBase)
 
 describe(@"NSError(OBExtensions)", ^{
