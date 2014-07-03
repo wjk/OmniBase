@@ -7,6 +7,7 @@ Pod::Spec.new do |s|
   s.author           = { "William Kent" => "https://github.com/wjk" }
   s.source           = { :git => "https://github.com/wjk/OmniBase.git", :tag => s.version.to_s }
 
+  s.platform = :osx
   s.source_files = 'Pod/Classes'
   s.resources = 'Pod/Assets/*.png'
   s.public_header_files = 'Pod/Classes/**/*.h'
